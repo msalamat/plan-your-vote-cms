@@ -24,7 +24,6 @@ namespace Web.Models
 
     public class JSONPollingPlaceDate
     {
-        public int PollingDateId { get; set; }
         public string PollingDate { get; set; }
         public string StartTime { get; set; }
         public string EndTime { get; set; }

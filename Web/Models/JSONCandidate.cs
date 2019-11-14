@@ -7,7 +7,6 @@ namespace Web.Models
 {
     public class JSONCandidate
     {
-        public int CandidateId { get; set; }
         public string Position { get; set; }
         public string Name { get; set; }
         public string Party { get; set; }
